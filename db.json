@@ -1,0 +1,53 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "nama": "Sandra",
+      "alamat": "pekalongan",
+      "umur": 28,
+      "noHp": "080000008787"
+    },
+    {
+      "id": 2,
+      "nama": "Londo",
+      "alamat": "Surabaya",
+      "umur": 24,
+      "noHp": "08909898787"
+    },
+    {
+      "id": 3,
+      "nama": "Simamam",
+      "alamat": "Medan",
+      "umur": 29,
+      "noHp": "0898709656787"
+    },
+    {
+      "id": 4,
+      "nama": "Landman",
+      "alamat": "Jayapura",
+      "umur": 24,
+      "noHp": "089876878787"
+    },
+    {
+      "id": 5,
+      "nama": "Kalbo",
+      "alamat": "Semarang",
+      "umur": 20,
+      "noHp": "0898769876787"
+    },
+    {
+      "id": 6,
+      "nama": "Selman",
+      "alamat": "Dumai",
+      "umur": 23,
+      "noHp": "0898098123787"
+    },
+    {
+      "id": 7,
+      "nama": "Simpon",
+      "alamat": "Medan",
+      "umur": 21,
+      "noHp": "0898768908787"
+    }
+  ]
+}
